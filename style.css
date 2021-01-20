@@ -8,3 +8,8 @@ body {
 img {
   text-align: center;
 }
+
+a {
+  padding: 10px;
+  background-color: grey;
+}
