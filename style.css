@@ -19,6 +19,6 @@ p#featured-property {
   height: 400px;
 }
 
-#details {
+div#details {
   float:left;
 }
